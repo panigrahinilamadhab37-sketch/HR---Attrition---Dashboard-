@@ -1,5 +1,6 @@
-HR-Attrition-Dashboard
-🎯 Key Insights:
+# HR-Attrition-Dashboard
+# 🎯 Key Insights:
+
 Overall Attrition Rate is 16.12%, with 237 employees having left out of 1,470 total.
 R&D Department has the highest attrition (56.12%), followed by Sales (38.82%) and HR (5.06%).
 Younger employees (ages 28-32) represent the largest group and also show higher attrition, especially those under 30.
