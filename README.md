@@ -15,5 +15,6 @@ This project presents an interactive HR Analytics Dashboard built using Microsof
   Sales Executive and Lab Technician.
 * Employees aged 23–37 make up the bulk of attrition (145 out of 237), suggesting the need for engagement
   strategies in this age group.
-
+  
+# 📊 Dashboard
 <img width="1529" height="645" alt="Screenshot 2026-05-25 102228" src="https://github.com/user-attachments/assets/7bdba6eb-03c8-4c19-8fc1-3d8fbbfc0486" />
